@@ -12,8 +12,9 @@ OR
 This method is the quickest and easiest way to install the app without a jailbreak, as the signing and installation can be done direct from your iDevice without downloading the .ipa file meaning a Mac/PC isn't required... Make sure you have your UDID stored somewhere on your iPhone/ipad or transfer/email your .p12 and .mobileprovision files to your iPhone/iPad.
 
 
-![IMG_0176](https://user-images.githubusercontent.com/2493592/115844922-3a58ca80-a418-11eb-87bb-016da4119137.jpg)
-
+<p align="center">
+  <img width="563" height="1218" src="https://user-images.githubusercontent.com/2493592/129311813-8bf45894-0c61-4ebc-afeb-2af0da118256.jpg">
+</p>
 
 ## Signing & Installation
 
