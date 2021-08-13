@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 
 title: Mod DJI Fly iOS v1.4.8
 
-description: Unlock full FCC power to increase signal strength and range by ~70% <br><br>Unlock 5.8 GHz band in restricted locations <br><br>Weather Status Alert, Fn Button Override, Auto iPhone Charging<br><br>Unlock Airsense (ADSB) on supported Mavic Air 2 drones
+description: Unlock full FCC power to increase signal strength and range by around 70% <br><br>Unlock 5.8 GHz band in restricted locations <br><br>Weather Status Alert, Fn Button Override, Auto iPhone Charging<br><br>Unlock Airsense (ADSB) on supported Mavic Air 2 drones
 github:
     is_project_page: false
 
