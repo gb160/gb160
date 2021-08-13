@@ -22,7 +22,7 @@
 
 * **Optional Weather status alert for your current location**
 
-* **Optional Fn button override, meaning you can now takeoff and land with a single tap (or double tap) of the Fn button on your controller (Not available for Mini 1)**
+* **Optional Fn button override. You can now takeoff and land with a single tap (or double tap) of the Fn button on your controller, making hand launching much less hassle (Not available for Mini 1)**
 
 * **Optional Auto Phone Charging at a specified level**
 
