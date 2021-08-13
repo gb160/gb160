@@ -16,13 +16,17 @@
 
 # Features
 
-* **Unlock full FCC power to increase signal strength and range considerably**
+* **Unlock full FCC power to increase signal strength and range by around 70%**
 
 * **Unlock 5.8 GHz band in restricted locations (Russia, Israel etc)**
 
-* **Airsense (ADSB) for supported Mavic Air 2 drones (model number ends in '3W')**
+* **Optional Weather status alert for your current location**
 
-* **Optional Weather status notification for your current location**
+* **Optional Fn button override, meaning you can now takeoff and land with a single tap (or double tap) of the Fn button on your controller (Not available for Mini 1)**
+
+* **Optional Auto Phone Charging at a specified level**
+
+* **Optional Airsense (ADSB) for supported Mavic Air 2 drones (model number ends in '3W')**
 
 # Purchasing Information
 
