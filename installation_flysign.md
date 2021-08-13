@@ -13,7 +13,7 @@ This method is the quickest and easiest way to install the app without a jailbre
 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/2493592/129311813-8bf45894-0c61-4ebc-afeb-2af0da118256.jpg">
+  <img width="563" height="1218" src="https://user-images.githubusercontent.com/2493592/129311813-8bf45894-0c61-4ebc-afeb-2af0da118256.jpg">
 </p>
 
 ![IMG_1279](https://user-images.githubusercontent.com/2493592/129311813-8bf45894-0c61-4ebc-afeb-2af0da118256.jpg)
